@@ -36,6 +36,6 @@ An answer to that question.
 ## Changelog
 
 ### 1.0
-* Released: December 6, 2016
+* Released: 20 January 2021
 
 Initial release
