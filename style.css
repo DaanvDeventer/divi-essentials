@@ -1,0 +1,55 @@
+/*
+ Theme Name:  		Divi Essentials
+ Theme URI:   		https://studiovandeventer.nl/development/
+ Description: 		A Wordpress Divi and WooCommerce Child Theme
+ Author:      		Studio Vijverberg
+ Author URI:  		https://studiovijverberg.nl/
+ Template:    		Divi
+ Version:    		1.0.0
+ License:     		GPLv3
+ License URI: 		https://www.gnu.org/licenses/gpl-3.0.en.html
+ Tags:        		Divi, Ecommerce, Woocommerce, Child Theme
+ Text Domain: 		divi-essentials
+ GitHub Theme URI: 	https://github.com/studiovandeventer/divi-essentials
+*/
+
+/*
+ Divi Essentials Child Theme
+ Copyright (C) 2021 Studio van Deventer
+ 
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ 
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ See the GNU General Public License for more details.
+ 
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ 
+ ==========
+ 
+ CREDITS:
+ 
+ Parts of this theme are based on and/or copied from WordPress, copyright 2011-2021
+ by the contributors. Licensed under the GNU General Public License (GPL), version
+ 2 or later.
+ 
+ Parts of this theme are based on and/or copied from WooCommerce by Automattic,
+ copyright 2015 by the contributors. Licensed under the GNU General Public License
+ (GPL), version 3 or later.
+ 
+ Parts of this theme are based on and/or copied from Divi by Elegant Themes. Licensed
+ under the GNU General Public License (GPL), version 2.
+ 
+ See the plugin-installer.php file for additional credit and licensing information.
+ 
+ See the license.txt file in the theme's root directory for the text of the GPL, version 3.
+ 
+ Important: utilizing the automatic update feature of this child theme will overwrite any
+ Custom code placed within this file. If you wish to automatically update, please place
+ Your code in theme options >> custom css otherwise you can manually update the theme files.
+*/
